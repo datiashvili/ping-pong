@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cont {
+    border: 3px solid black;
+    padding: 25px;
+
+}
+
+.hh2 {
+    padding-left: 215px;
+}
+
+.hh3 {
+    padding-left: 105px;
+}
+
+.o1 {
+    color: blue;
+}
+
+.too {
+    color: green;
+}
+
+.o2 {
+    color: red;
+}
+
+.main2 {
+    gap: 17px;
+    display: flex;
+    padding-left: 52px;
+}
+
+.p1 {
+    background-color: blue;
+    padding: 17px;
+}
+
+.p2 {
+    background-color: red;
+    padding: 17px;
+}
+
+.res {
+    background-color: green;
+    padding: 17px;
+}
